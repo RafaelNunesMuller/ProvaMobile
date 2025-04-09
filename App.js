@@ -6,9 +6,9 @@ import Fale from './telas/faleconosco';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Log/>
+      {/* <Log/> */}
       {/* <Home/> */}
-      {/* <Fale/> */}
+      <Fale/>
       
 
       
